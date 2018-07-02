@@ -59,7 +59,7 @@ fclose($myfile);
     
     </td>
   </tr>
-<tr><td>Yukarıdaki dosyalar için SD Logo bindirme dosyası oluşturuldu...</td></tr>
+<tr><td>Yukarıdaki dosyalar için SD Logo bindirme dosyası (logobindirSD.bat) oluşturuldu...</td></tr>
 
 </table>
 

@@ -59,7 +59,7 @@ fclose($myfile);
     
     </td>
   </tr>
-<tr><td>Yukarıdaki dosyalar için Logo bindirme dosyası oluşturuldu...</td></tr>
+<tr><td>Yukarıdaki dosyalar için HD Logo bindirme dosyası oluşturuldu...</td></tr>
 
 </table>
 
